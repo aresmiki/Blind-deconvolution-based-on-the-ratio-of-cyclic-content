@@ -11,7 +11,9 @@ MOMEDA：Multipoint optimal minimum entropy deconvolution adjusted
 The main difference between various deconvolution methods lies in the characterization index.There are several indicators with similar definitions to RCC, and the details are as follows:
 
 Some equivalent definitions of RCC can be found in papers [1-3].
+
 Hilbert envelope spectrum fault feature ratio (HESFFR) [1]
+
 Envelop harmonic-to-noise ratio (EHNR)[2-3]
 
 Note：This procedure is only for manuscript review. For other purposes, please contact aresmiki@163.com
