@@ -16,7 +16,7 @@ Hilbert envelope spectrum fault feature ratio (HESFFR) [1]
 
 Envelop harmonic-to-noise ratio (EHNR)[2-3]
 
-You can construct BD methods based on these metrics according to the framework of this paper, but their performance should be consistent.
+You can construct BD methods based on these metrics according to the proposed framework, but their performance should be consistent.
 
 Note：This procedure is only for manuscript review. For other purposes, please contact aresmiki@163.com
 
