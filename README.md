@@ -17,7 +17,9 @@ Envelop harmonic-to-noise ratio (EHNR)[2-3]
 Note：This procedure is only for manuscript review. For other purposes, please contact aresmiki@163.com
 
 [1]	W. He, Y. Zi, B. Chen, F. Wu, Z. He, Automatic fault feature extraction of mechanical anomaly on induction motor bearing using ensemble super-wavelet transform, Mech. Syst. Signal Process. 54–55 (2015) 457–480. https://doi.org/10.1016/j.ymssp.2014.09.007.
+
 [2]	M. Zhao, X. Jia, A novel strategy for signal denoising using reweighted SVD and its applications to weak fault feature enhancement of rotating machinery, Mech. Syst. Signal Process. 94 (2017) 129–147. https://doi.org/10.1016/j.ymssp.2017.02.036.
+
 [3]	X. Xu, M. Zhao, J. Lin, Y. Lei, Envelope harmonic-to-noise ratio for periodic impulses detection and its application to bearing diagnosis, Measurement. 91 (2016) 385–397. https://doi.org/10.1016/j.measurement.2016.05.073.
 
 
